@@ -8,8 +8,9 @@ Now, I keep learning, but other things, like the language Go and other technolog
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geraldocoosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geraldocoosta&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  
-  <div style="display: inline_block"><br>
+
+## Here are some stacks that I know and that I'm learning
+<div style="display: inline_block"><br>
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
